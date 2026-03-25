@@ -6,7 +6,7 @@ subtitle: Stanford CS + Math student researching AI agents and multi-agent reinf
 
 profile:
   align: right
-  image: prof_pic.png
+  image: prof_pic.png # beach photo
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Stanford University</p>
