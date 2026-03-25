@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Selected projects — market-making bots, multi-agent RAG pipelines, and low-latency trading algorithms.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 4
+display_categories: [work]
 horizontal: false
 ---
 

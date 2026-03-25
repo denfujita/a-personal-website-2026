@@ -1,15 +1,42 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Course materials, schedules, and resources for classes taught.
+permalink: /coursework/
+title: coursework
+description: Favorite classes at Stanford and notes.
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 5
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+Some of the classes I've enjoyed most at Stanford, loosely grouped by area. Links to my notes where I have them.
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+## Systems
 
-{% include courses.liquid %}
+| Course | Topic | Notes |
+|--------|-------|-------|
+| CS 143 | Compilers | — |
+| CS 144 | Networking | — |
+| CS 140 | Operating Systems | — |
+| CS 149 | Cloud Computing | — |
+
+## AI / ML
+
+| Course | Topic | Notes |
+|--------|-------|-------|
+| CS 229 | Machine Learning | — |
+| CS 224N | NLP with Deep Learning | — |
+| CS 234 | Deep Reinforcement Learning | — |
+| CS 231N | Computer Vision with Deep Learning | — |
+
+## Math
+
+| Course | Topic | Notes |
+|--------|-------|-------|
+| Math 113 | Linear Algebra and Matrix Theory | — |
+| Math 151 | Probability Theory | — |
+| Math 136 | Measure Theory & Stochastic Processes | — |
+
+## Algorithms
+
+| Course | Topic | Notes |
+|--------|-------|-------|
+| CS 161 | Algorithms | — |
