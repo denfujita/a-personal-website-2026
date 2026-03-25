@@ -9,7 +9,7 @@ last_name: Liu
 contact_note: >
   Email is the best way to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Chasing convergence. James Liu is a Stanford University computer science and mathematics student researching AI agents and multi-agent reinforcement learning at the Stanford Artificial Intelligence Lab. His work spans ML systems, web agent benchmarking (NeurIPS 2025), and trading infrastructure. Incoming OpenAI MTS intern.
+  Chasing convergence.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
