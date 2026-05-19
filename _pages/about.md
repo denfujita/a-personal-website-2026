@@ -31,6 +31,10 @@ I am James Liu, a Stanford student pursuing a B.S. and M.S. in Computer Science 
 
 Outside of class and work, I help teach Stanford's CS198 data structures and algorithms course and organize TreeHacks. I also enjoy tennis, marathon training, [poker](https://www.youtube.com/watch?t=1387&v=KJYL9waGkas&feature=youtu.be), board games, and orchestral music. You can find more detail on my [resume]({% link _pages/cv.md %}), browse selected [projects]({% link _pages/projects.md %}), or reach out by email.
 
+## angel investments
+
+I angel invest in early-stage startups. See my portfolio below.
+
 ---
 
 ## in another life
