@@ -4,7 +4,7 @@ permalink: /coursework/
 title: coursework
 description: Favorite classes at Stanford and notes.
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 Some of the classes I've enjoyed most at Stanford, loosely grouped by area. Links to my notes where I have them.
