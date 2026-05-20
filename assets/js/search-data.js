@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-angel-investments",
+          title: "Angel Investments",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/angel-investments/";
+          },
         },{id: "nav-coursework",
           title: "coursework",
           description: "Favorite classes at Stanford and notes.",
