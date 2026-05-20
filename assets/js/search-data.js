@@ -38,7 +38,7 @@ ninja.data = [{
             window.location.href = "/projects/";
           },
         },{id: "nav-angel-investments",
-          title: "Angel Investments",
+          title: "angel investments",
           description: "",
           section: "Navigation",
           handler: () => {
