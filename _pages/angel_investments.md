@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Angel Investments
+title: angel investments
 permalink: /angel-investments/
 nav: true
 nav_order: 5
