@@ -3,6 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: Stanford CS + Math student researching AI agents and multi-agent reinforcement learning. Incoming OpenAI MTS intern.
+description: born to random walk, forced to converge
 
 profile:
   align: right
